@@ -5,6 +5,7 @@ Buat video mengenai javascipt
 *Framework Javascript
   ^VueJS
   ^WinJS
+  ^React
 *Fundamental Data Structure
 PHP Framework
   ^Laravel
