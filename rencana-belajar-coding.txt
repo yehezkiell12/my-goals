@@ -3,7 +3,7 @@ Rencana Belajar Coding saya
 Buat video mengenai javascipt
 *ES6
 *Framework Javascript
-*
+*Fundamental Data Structure
 PHP Framework
 Interview
 Vlog
